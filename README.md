@@ -17,8 +17,6 @@ Frontend developer with a design-first mindset — I care how things look and fe
 
 ---
 
-![Falguni's GitHub stats](https://github-readme-stats.vercel.app/api?username=falguniiiii&show_icons=true&theme=dark)## Hi there 👋
-
 <!--
 **falguniiiii/falguniiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
