@@ -2,11 +2,12 @@
 
 Frontend developer with a design-first mindset — I care how things look and feel, not just how they work.
 
-- 🎨 Frontend: React, JavaScript
+- 🎨 Design: Figma, Framer, Canva
+- 💻 Frontend: HTML, CSS, JavaScript, React
 - 🐍 Also building: Python-based projects (voice assistants, automation)
-- 🛠️ Currently exploring: real-time web apps, security tooling
-- 📫 Reach me: [LinkedIn] https://www.linkedin.com/in/falguni-pathak-618607352
-- 😄 Pronouns: she
+- 🛠️ Currently exploring: UI/UX case studies, security tooling
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/falguni-pathak-618607352)
+- 😊 Pronouns: she/her
 
 ---
 
@@ -18,8 +19,9 @@ Frontend developer with a design-first mindset — I care how things look and fe
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
----
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 **falguniiiii/falguniiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
